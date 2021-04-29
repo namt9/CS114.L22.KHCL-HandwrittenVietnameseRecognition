@@ -16,6 +16,8 @@
 - Xử lí data:
   + Loại bỏ data bị lỗi, thiếu thông tin 
   + Lưu tất cả trong một file CSV
+
+
 **2. Dự đoán số nam giới ế vợ ở Việt Nam**
 - Input: Năm, tỉ lệ nam nữ ứng với năm nhập vào, tỉ lệ nam giới thất nghiệp
 - Output: Số lượng nam giới ế vợ
