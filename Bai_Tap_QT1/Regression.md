@@ -7,7 +7,7 @@
 - Trịnh Tuấn Nam 19521874
 - Nguyễn Dương Hải 19521464
 ## Các bài toán:
-1. Dự đoán số lượng phân bón cho một miếng đất
+**1. Dự đoán số lượng phân bón cho một miếng đất**
 - Input: Diện tích, Thời gian mua phân bón , Loại đất, Loại cây trồng
 - Output: Số lượng phân bón(kg)
 - Thu thập data:
@@ -16,7 +16,7 @@
 - Xử lí data:
   + Loại bỏ data bị lỗi, thiếu thông tin 
   + Lưu tất cả trong một file CSV
-2. Dự đoán số nam giới ế vợ ở Việt Nam
+**2. Dự đoán số nam giới ế vợ ở Việt Nam**
 - Input: Năm, tỉ lệ nam nữ ứng với năm nhập vào, tỉ lệ nam giới thất nghiệp
 - Output: Số lượng nam giới ế vợ
 - Thu thập data:
